@@ -4,6 +4,7 @@ This repository contains the materials required for the tutorial presented at CO
 The goal of the tutorial is to showcase some simple text analysis techniques that can reveal insight into computational social science questions, such as the content of fake news.
 
 The code for the tutorial is contained in the notebooks `word_frequency.ipynb`, `topic_modeling.ipynb`, and `word_embeddings.ipynb`. 
+The code is compatible with Python 3.8.5.
 We assume that you have installed Python on your machine and are familiar with installing packages using `pip` or a self-contained environment like `anaconda`.
 
 Before running the Jupyter notebooks, please install all necessary packages and data (~ 220 MB) in your environment by opening the command line and issuing the following commands.
