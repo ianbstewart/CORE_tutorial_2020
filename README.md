@@ -13,7 +13,7 @@ wget https://bitbucket.org/istewart6/core_tutorial_2020/raw/9feab1699d48005d9631
 unzip data.zip
 ```
 
-Next, prepare to open the notebooks via Jupyter:
+Next, open the notebook interface via Jupyter:
 
 ```
 jupyter-notebook .
