@@ -24,14 +24,14 @@ Note that the download may take from 5-30 minutes depending on your download spe
 
 Linux:
 ```
-conda create --file=environment.yaml
+conda create -n CORE_tutorial --file=spec-file.txt
 wget https://bitbucket.org/istewart6/core_tutorial_2020/raw/36e69f9d777319ae2cc94354cf57bd01f3e080b3/data.zip . 
 unzip data.zip
 ```
 
 Mac:
 ```
-conda create --file=environment.yaml
+conda create -n CORE_tutorial --file=spec-file.txt
 curl https://bitbucket.org/istewart6/core_tutorial_2020/raw/36e69f9d777319ae2cc94354cf57bd01f3e080b3/data.zip -o data.zip
 unzip data.zip
 ```
