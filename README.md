@@ -42,3 +42,7 @@ Next, launch Jupyter locally to start using the notebooks:
 ```
 jupyter-notebook .
 ```
+
+### Acknowledgments
+
+Thanks to Rada Mihalcea and Laura Biester for feedback on early versions of the tutorial.
