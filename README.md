@@ -14,6 +14,7 @@ You will need to log into your Google account to do this.
 
 ### Instructions to run code locally
 
+**NOTE**: this is optional for the tutorial, I encourage everyone to use the Colab links above if possible.
 You can also run the notebooks locally on your own machine, but be warned that installing all the packages may be difficult without `conda`.
 
 The code is compatible with Python 3.
